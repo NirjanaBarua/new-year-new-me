@@ -1,0 +1,216 @@
+* {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.banner-title {
+    position: absolute;
+    width: 500px;
+    height: 210px;
+    margin-left: 845px;
+    top: 120px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: black;
+}
+
+.banner-description {
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    margin-left: 845px;
+    top: 468px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: black;
+
+}
+
+.btn-primary {
+    position: absolute;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    border: 0;
+    margin-left: 1180px;
+    top: 600px;
+    padding: 18px 35px;
+    border-radius: 5px;
+    background: #FD6E0A;
+}
+
+.previous-history {
+    margin-left: 200px;
+    margin-top: 900px;
+}
+
+.content {
+    margin-left: 50px;
+    margin-top: 1100px;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.history {
+    display: flex;
+}
+
+.title {
+    padding-left: 30px;
+    padding-right: 400px;
+}
+
+.sub-title {
+    padding-left: 30px;
+    padding-right: 200px;
+}
+
+.list {
+    list-style: none;
+}
+
+.fa-check {
+    color: green;
+}
+
+.plans {
+    text-align: center;
+    margin-top: 90px;
+    font-size: 20px;
+    font-weight: 700px;
+}
+
+.plans-info-container {
+    display: flex;
+    margin-left: 230px;
+    margin-right: 230px;
+    justify-content: space-around;
+}
+
+.info-description {
+    color: gray;
+}
+
+.img {
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2100px;
+
+
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url('../images/watch.png');
+    border-radius: 8px;
+}
+
+.grad {
+    position: absolute;
+    width: 500px;
+    height: 210px;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: left;
+    color: white;
+}
+
+.btn {
+    position: absolute;
+    color: orangered;
+    font-weight: 700;
+    font-size: 18px;
+    border: 0;
+    margin-left: 100px;
+    margin-top: 200px;
+    padding: 18px 35px;
+    border-radius: 5px;
+    background: white;
+}
+
+.footer {
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2646.3px;
+    background-color: black;
+}
+
+.f-title {
+    position: absolute;
+    width: 500px;
+    height: 210px;
+    margin-left: 200px;
+    margin-top: 120px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: left;
+    color: white;
+}
+
+.footer-info {
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    margin-left: 200px;
+    margin-top: 200px;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 16px;
+    text-align: left;
+    color: white;
+}
+
+.icon {
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 370px;
+    justify-content: space-between;
+}
+
+.sub-title {
+    position: absolute;
+    width: 500px;
+    height: 210px;
+    margin-left: 700px;
+    margin-top: 100px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 76px;
+    text-align: right;
+    color: white;
+
+}
+
+input {
+    position: absolute;
+    width: 325px;
+    height: 64px;
+    border-radius: 8px;
+    border: 2px solid white;
+    margin-left: 1100px;
+    margin-top: 200px;
+    font-size: 18px;
+    background-color: black;
+}
+
+.sub-btn {
+    position: absolute;
+    color: orangered;
+    font-weight: 700;
+    font-size: 18px;
+    border: 0;
+    margin-left: 1100px;
+    margin-top: 280px;
+    padding: 18px 35px;
+    border-radius: 5px;
+    background: white;
+}
